@@ -1,1 +1,1 @@
-print("Hellow World")
+print("Mining Project")
